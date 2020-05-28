@@ -1,14 +1,12 @@
 import React from "react";
-import Card from "../../../components/Card";
+import "./style.css";
 
-function PortfolioSection() {
+function PortfolioSection(props) {
     return (
         <div>
-            <h2 class="page-title">Main</h2>
+            <h2 class="page-title">{props.title}</h2>
             <div class="row portfolio-section">
-                <Card></Card>
-                <Card></Card>
-                <Card></Card>
+                {props.cards}
             </div>
         </div>
     );

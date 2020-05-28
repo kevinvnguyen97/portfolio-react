@@ -1,0 +1,12 @@
+.card {
+    width: 16rem;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
