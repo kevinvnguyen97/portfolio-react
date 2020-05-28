@@ -11,7 +11,7 @@ function Portfolio() {
                 cards={[
                     <Card
                         title="LinkedIn"
-                        img=""
+                        img="/linkedin_logo.png"
                         href="https://www.linkedin.com/in/kevin-nguyen-344466111/"
                     />,
                     <Card
@@ -48,9 +48,65 @@ function Portfolio() {
                 ]}
             />
             <hr></hr>
-            <PortfolioSection title="Homework Assignments"></PortfolioSection>
+            <PortfolioSection
+                title="Homework Assignments"
+                cards={[
+                    <Card
+                        title="Homework 3: Password Generator"
+                        img=""
+                        href="https://thaninjapower.github.io/homework-3"
+                    />,
+                    <Card
+                        title="Homework 5: Kevin's Day Planner App"
+                        img=""
+                        href="https://thaninjapower.github.io/homework-5"
+                    />,
+                    <Card
+                        title="Homework 6: Kevin's Weather App"
+                        img=""
+                        href="https://thaninjapower.github.io/homework-6"
+                    />,
+                    <Card
+                        title="Homework 9: Kevin's README Generator"
+                        img=""
+                        href="https://github.com/ThaNinjaPower/homework-9"
+                    />,
+                    <Card
+                        title="Homework 10: Kevin's Team Builder App"
+                        img=""
+                        href="https://github.com/ThaNinjaPower/homework-10"
+                    />,
+                    <Card
+                        title="Homework 13: Kevin's Burger App"
+                        img=""
+                        href="https://afternoon-lake-90980.herokuapp.com/"
+                    />
+                ]}
+            />
             <hr></hr>
-            <PortfolioSection title="Hobbies"></PortfolioSection>
+            <PortfolioSection
+                title="Hobbies"
+                cards={[
+                    <Card
+                        title="Chess"
+                    />,
+                    <Card
+                        title="Gaming"
+                    />,
+                    <Card
+                        title="Anime"
+                    />,
+                    <Card
+                        title="Computers and Coding"
+                    />,
+                    <Card
+                        title="Drawing and Painting"
+                    />,
+                    <Card
+                        title="Modding"
+                    />
+                ]}
+            />
         </div>
     );
 }
