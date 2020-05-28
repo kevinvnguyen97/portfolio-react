@@ -1,5 +1,9 @@
-.card {
+.medium-card {
     width: 16rem;
+}
+
+.wide-card {
+    width: 34rem;
 }
 
 a {
