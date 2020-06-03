@@ -4,7 +4,7 @@ function About() {
     return (
         <div>
             <h2 class="page-title">Welcome to My Personal Page!</h2>
-            <div class="card-deck text-white bg-dark mb-3">
+            <div class="card-deck large-card text-white bg-dark mb-3">
                 <img src="/images/kevin_mackinac.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">About Me</h5>

@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Navbar></Navbar>
+        <Navbar/>
         <div class="whole-page">
           <Route exact path="/" component={About}/>
           <Route path="/portfolio" component={Portfolio}/>

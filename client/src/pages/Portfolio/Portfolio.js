@@ -91,7 +91,7 @@ function Portfolio() {
                     />,
                     <Card
                         title="Homework 13: Kevin's Burger App"
-                        img=""
+                        img="/images/burger.png"
                         href="https://afternoon-lake-90980.herokuapp.com/"
                         type="medium-card"
                     />
