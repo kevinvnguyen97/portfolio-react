@@ -79,13 +79,13 @@ function Portfolio() {
                     />,
                     <Card
                         title="Homework 9: Kevin's README Generator"
-                        img=""
+                        img="/images/code_icon.png"
                         href="https://github.com/ThaNinjaPower/homework-9"
                         type="medium-card"
                     />,
                     <Card
                         title="Homework 10: Kevin's Team Builder App"
-                        img=""
+                        img="/images/code_icon.png"
                         href="https://github.com/ThaNinjaPower/homework-10"
                         type="medium-card"
                     />,
@@ -93,6 +93,18 @@ function Portfolio() {
                         title="Homework 13: Kevin's Burger App"
                         img="/images/burger.png"
                         href="https://afternoon-lake-90980.herokuapp.com/"
+                        type="medium-card"
+                    />,
+                    <Card
+                        title="Homework 17: Fitness Tracker App"
+                        img="/images/workout.png"
+                        href="https://aqueous-mesa-43588.herokuapp.com/"
+                        type="medium-card"
+                    />,
+                    <Card
+                        title="Homework 19: Employee Tracker App"
+                        img="/images/employee.png"
+                        href="https://peaceful-sea-95092.herokuapp.com/"
                         type="medium-card"
                     />
                 ]}
