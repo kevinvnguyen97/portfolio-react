@@ -6,6 +6,7 @@
 * [Contact Page](#contact-page)
 
 ## About Page
+This page contains my personal bio.
 
 ## Portfolio Page
 This page contains a collection of projects, homeworks, and documents. This page includes:
