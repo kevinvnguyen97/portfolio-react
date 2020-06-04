@@ -1,9 +1,9 @@
 # Portfolio (React)
 
 ## Table of Contents
-[About Page](#about-page)
-[Portfolio Page](#portfolio-page)
-[Contact Page](#contact-page)
+* [About Page](#about-page)
+* [Portfolio Page](#portfolio-page)
+* [Contact Page](#contact-page)
 
 ## About Page
 
